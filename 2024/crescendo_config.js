@@ -77,7 +77,7 @@ var config_data = `
       "type": "counter"
     },
     { "name": "Picked Up Pieces",
-      "code": "nit",
+      "code": "pup",
       "type": "bool"
     }
   ],
