@@ -23,7 +23,7 @@ var config_data = `
       "type": "level",
       "choices": {
         "qm": "Quals<br>",
-        "pl": "Playoffs"
+        "e": "Elims"
       },
       "defaultValue": "qm",
       "required": "true"
