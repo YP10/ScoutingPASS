@@ -23,8 +23,7 @@ var config_data = `
       "type": "level",
       "choices": {
         "qm": "Quals<br>",
-        "sf": "Semifinals<br>",
-        "f": "Finals"
+        "pl": "Playoffs<br>",
       },
       "defaultValue": "qm",
       "required": "true"
