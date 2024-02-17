@@ -76,16 +76,9 @@ var config_data = `
       "code": "ass",
       "type": "counter"
     },
-    { "name": "Pickup From",
-      "code": "tpu",
-      "type": "radio",
-      "choices": {
-        "s": "Source<br>",
-        "f": "Floor<br>",
-        "b": "Both<br>",
-        "x": "Not Attempted"
-      },
-      "defaultValue": "x"
+    { "name": "Picked Up Pieces",
+      "code": "nit",
+      "type": "bool"
     }
   ],
   "teleop": [
